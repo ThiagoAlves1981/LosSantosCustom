@@ -10,7 +10,7 @@
     "trans": "Automático",
     "color": "Vermelho Chili",
     "hp": 520,
-    "img": "./public/Infernus.webp",
+    "img": "https://gta.fandom.com/wiki/Infernus_Classic",
     "badge": "DESTAQUE",
     "category": "Esportivo",
     "desc": "Um clássico lendário das ruas de Los Santos. Motor V12 de alto desempenho, suspensão esportiva e design atemporal que para o trânsito."
