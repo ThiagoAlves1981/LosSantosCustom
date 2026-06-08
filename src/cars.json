@@ -10,7 +10,7 @@
     "trans": "Automático",
     "color": "Vermelho Chili",
     "hp": 520,
-    "img": "./public/Infernus.webp",
+    "img": "./Infernus.webp",
     "badge": "DESTAQUE",
     "category": "Esportivo",
     "desc": "Um clássico lendário das ruas de Los Santos. Motor V12 de alto desempenho, suspensão esportiva e design atemporal que para o trânsito."
@@ -26,7 +26,7 @@
     "trans": "Automático",
     "color": "Preto Fosco",
     "hp": 810,
-    "img": "./public/Zentorno.webp",
+    "img": "./Zentorno.webp",
     "badge": "NOVO",
     "category": "Superesportivo",
     "desc": "O apex predador das ruas. Aerodinâmica extrema, motor central e aceleração que te joga no assento."
@@ -42,7 +42,7 @@
     "trans": "Manual",
     "color": "Azul Electric",
     "hp": 680,
-    "img": "./public/Banshee900R.webp",
+    "img": "./Banshee900R.webp",
     "badge": null,
     "category": "Superesportivo",
     "desc": "Transformação radical do clássico Banshee. Kit turbo de alta performance, suspensão rebaixada e escape esportivo."
@@ -58,7 +58,7 @@
     "trans": "Automático",
     "color": "Prata Metallic",
     "hp": 390,
-    "img": "./public/RapidGT.webp",
+    "img": "./RapidGT.webp",
     "badge": null,
     "category": "Esportivo",
     "desc": "Elegância britânica com alma de corrida. O equilíbrio perfeito entre conforto diário e prazer ao volante."
@@ -74,7 +74,7 @@
     "trans": "Manual",
     "color": "Branco Pérola",
     "hp": 340,
-    "img": "./public/ElegyRH8.webp",
+    "img": "./ElegyRH8.webp",
     "badge": "OFERTA",
     "category": "Esportivo",
     "desc": "A cultura do tuning encarnada em aço e borracha. Plataforma versátil, infinitas possibilidades de personalização."
@@ -90,7 +90,7 @@
     "trans": "Automático",
     "color": "Dourado Cromo",
     "hp": 1050,
-    "img": "./public/Osiris.webp",
+    "img": "./Osiris.webp",
     "badge": "EXCLUSIVO",
     "category": "Hipercarro",
     "desc": "Fabricado à mão para os que não aceitam limites. Apenas 8 unidades no Brasil. Investimento com quatro rodas."
@@ -106,7 +106,7 @@
     "trans": "Manual",
     "color": "Verde Escuro",
     "hp": 295,
-    "img": "./public/SultanRS.webp",
+    "img": "./SultanRS.webp",
     "badge": null,
     "category": "Sedan",
     "desc": "O rei das ruas secundárias. AWD, intercooler de topo e peso reduzido fazem dele uma surpresa nas curvas."
@@ -122,7 +122,7 @@
     "trans": "Automático",
     "color": "Laranja Neon",
     "hp": 260,
-    "img": "./public/JesterClassic.webp",
+    "img": "./JesterClassic.webp",
     "badge": null,
     "category": "Esportivo",
     "desc": "Visual importado, preço nacional. Spoiler agressivo, saias laterais e interior esportivo completo de fábrica."
